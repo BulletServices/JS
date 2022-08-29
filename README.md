@@ -18,7 +18,6 @@
          * [Exercise 3.1](#Exercise-31)
       * [4. Vetores (array)](#4-vetores-array)
          * [Exercise 4](#Exercise-4)
-   * [Answers](#respostas)
 
 # Before anything
 
@@ -43,6 +42,7 @@ Tip - displaying (or "printing") numbers on the screen:
 var a = 23;
 console.log(a);
 ```
+[Answer](#antes-de-qualquer-coisa)
 
 ### Exercise 1.2
 
@@ -130,5 +130,3 @@ Return the following content:
 `The user lives in Calgary, in the Center district, at Avenue North-west, number 1293.`
 
 ```
-
-# Answers
