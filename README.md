@@ -114,5 +114,21 @@ Write a program that reads a 10-position numeric vector. Then sort the vector in
 ## 5. Advanced (JSON, OBJECTS, DOM)
 
 ### Exercise 5.1
+Create a function that given the following object:
+
+```javascript
+var address = {
+		street: "Avenue North-west",
+		number: 1293,
+		district: "Center",
+		city: "Calgary",
+};
+```
+Return the following content:
+
+```javascript
+`The user lives in Calgary, in the Center district, at Avenue North-west, number 1293.`
+
+```
 
 # Answers
