@@ -69,6 +69,7 @@ The average of two numbers is the sum of the two numbers divided by 2
 The average of three numbers is the sum of the three numbers divided by 3
 The average of 'n' numbers is the sum of the 'n' numbers divided by 'n'
 ```
+[Answer](https://codepen.io/bulletsentence/pen/yLKmadE?editors=0010)
 
 ### Exercise 1.4
 
