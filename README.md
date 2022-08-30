@@ -193,3 +193,20 @@ Return the following content:
 `The user lives in Calgary, in the Center district, at Avenue North-west, number 1293.`
 
 ```
+
+### Exercise 5.4
+Copy the HTML and CSS code below and use only JS to add the class named "red" to the element H1 
+
+Tip: You can use: element.classList.add();
+
+HTML
+```
+<h1 id="head-text"> Hello </h1>
+```
+
+CSS
+```
+.red {
+  color: red;
+}
+```
