@@ -24,6 +24,8 @@
          * [Exercise 4.3](#Exercise-43)
       * [5. Advanced](#Advanced)
       	* [Exercise 5.1](#Exercise-51)
+      	* [Exercise 5.2](#Exercise-52)
+      	* [Exercise 5.3](#Exercise-53)
 
 # Before anything
 
@@ -159,6 +161,22 @@ Write a function to find the largest number in an array;
 ## 5. Advanced (JSON, OBJECTS, DOM)
 
 ### Exercise 5.1
+Copy the HTML code below and use only JS to show an alert with the text of element H1, To get the text of html elements you can use the function: "document.getElementById(id).innerHTML;"
+
+HTML
+```
+<h1 id="head-text"> Hello </h1>
+```
+
+### Exercise 5.2
+Copy the HTML code below and use only JS to change the TEXT of this H1 header:
+
+HTML
+```
+<h1 id="head-text"> Hello </h1>
+```
+
+### Exercise 5.3
 Create a function that given the following object:
 
 ```javascript
