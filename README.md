@@ -16,8 +16,10 @@
          * [Exercise 2.3](#Exercise-23)
       * [3. Loop](#3-loop)
          * [Exercise 3.1](#Exercise-31)
-      * [4. Vetores (array)](#4-vetores-array)
-         * [Exercise 4](#Exercise-4)
+      * [4. Array](#4-vetores-array)
+         * [Exercise 4.1](#Exercise-41)
+      * [4. Advanced](#Advanced)
+      	* [Exercise 5.1](#Exercise-51)
 
 # Before anything
 
@@ -42,7 +44,7 @@ Tip - displaying (or "printing") numbers on the screen:
 var a = 23;
 console.log(a);
 ```
-[Answer](#antes-de-qualquer-coisa)
+[Answer](https://codepen.io/bulletsentence/pen/poLMExp?editors=0012)
 
 ### Exercise 1.2
 
@@ -55,6 +57,7 @@ Tip - reading numbers:
 var v1;
 v1 = Number(prompt());
 ```
+[Answer](https://codepen.io/bulletsentence/pen/XWEvjwo?editors=0010)
 
 ### Exercise 1.3
 
