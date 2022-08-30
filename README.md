@@ -96,6 +96,8 @@ function characterDied (damage, health) {
 }
 ```
 
+[Answer](https://codepen.io/bulletsentence/pen/JjLgbRj?editors=0010)
+
 ### Exercise 2.3
 
 We need to limit the positions an enemy can walk in on the screen. The lowest possible position is 0 and the highest is 100: any value greater than 100 or less than 0 would go off-screen. We need a LimitPosition function that receives a POSITION that can have any positive or negative value, checks whether it is valid or not, and always returns a corrected value between 0 and 100.
