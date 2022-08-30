@@ -26,6 +26,7 @@
       	* [Exercise 5.1](#Exercise-51)
       	* [Exercise 5.2](#Exercise-52)
       	* [Exercise 5.3](#Exercise-53)
+      	* [Exercise 5.4](#Exercise-54)
 
 # Before anything
 
@@ -167,6 +168,7 @@ HTML
 ```
 <h1 id="head-text"> Hello </h1>
 ```
+[Answer](https://codepen.io/bulletsentence/pen/BarXPMg?editors=1010)
 
 ### Exercise 5.2
 Copy the HTML code below and use only JS to change the TEXT of this H1 header:
@@ -175,6 +177,7 @@ HTML
 ```
 <h1 id="head-text"> Hello </h1>
 ```
+[Answer](https://codepen.io/bulletsentence/pen/LYdwJYr?editors=1010)
 
 ### Exercise 5.3
 Create a function that given the following object:
@@ -194,6 +197,8 @@ Return the following content:
 
 ```
 
+[Answer](#)
+
 ### Exercise 5.4
 Copy the HTML and CSS code below and use only JS to add the class named "red" to the element H1 
 
@@ -210,3 +215,5 @@ CSS
   color: red;
 }
 ```
+
+[Answer](https://codepen.io/bulletsentence/pen/abYeazq)
