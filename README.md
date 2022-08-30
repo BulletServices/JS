@@ -146,6 +146,7 @@ Write a program that calculates and displays the multiplication table (up to 10x
 
 ### Exercise 4.1
 Write a program that reads a 10-position numeric vector. Then sort the vector in ascending order and display the sorted elements.
+
 Tip: You can use the function "sort((a, b) => a - b);"
 
 [Answer](https://codepen.io/bulletsentence/pen/mdxNjKz?editors=0012)
