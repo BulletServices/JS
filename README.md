@@ -15,7 +15,9 @@
          * [Exercise 2.2](#Exercise-22)
          * [Exercise 2.3](#Exercise-23)
       * [3. Loop](#3-loop)
-         * [Exercise 3.1](#Exercise-31)
+      	  * [Exercise 3.1](#Exercise-31)
+      	  * [Exercise 3.2](#Exercise-32)
+      	  * [Exercise 3.3](#Exercise-33)
       * [4. Array](#4-vetores-array)
          * [Exercise 4.1](#Exercise-41)
       * [4. Advanced](#Advanced)
@@ -113,6 +115,26 @@ function limitPosition(position) {
 ## 3. Loop
 
 ### Exercise 3.1
+
+Write a function to print numbers from 1 to 5 using a loop
+
+[Answer](https://codepen.io/bulletsentence/pen/wvmVxJN?editors=0012)
+
+### Exercise 3.2
+
+SetTimeout is a async function that runs every time, eg:
+
+```
+setTimeout(() => {
+  console.log("Delayed for 1 second.");
+}, "1000")
+```
+
+Write a Async loop using 'setTimeout()' and a function to print loop variable 5 times in asynchronous way.
+
+[Answer](https://codepen.io/bulletsentence/pen/gOeVjwj?editors=0012)
+
+### Exercise 3.3
 
 Write a program that calculates and displays the multiplication table (up to 10x) of any number entered by the user.
 
