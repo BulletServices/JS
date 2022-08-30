@@ -20,7 +20,9 @@
       	  * [Exercise 3.3](#Exercise-33)
       * [4. Array](#4-vetores-array)
          * [Exercise 4.1](#Exercise-41)
-      * [4. Advanced](#Advanced)
+         * [Exercise 4.2](#Exercise-42)
+         * [Exercise 4.3](#Exercise-43)
+      * [5. Advanced](#Advanced)
       	* [Exercise 5.1](#Exercise-51)
 
 # Before anything
@@ -142,6 +144,11 @@ Write a program that calculates and displays the multiplication table (up to 10x
 
 ### Exercise 4.1
 Write a program that reads a 10-position numeric vector. Then sort the vector in ascending order and display the sorted elements.
+
+### Exercise 4.2
+Write a function to find the largest number in an array;
+
+[Answer](https://codepen.io/bulletsentence/pen/PoRMBKx?editors=0012)
 
 ## 5. Advanced (JSON, OBJECTS, DOM)
 
