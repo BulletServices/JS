@@ -140,6 +140,8 @@ Write a Async loop using 'setTimeout()' and a function to print loop variable 5 
 
 Write a program that calculates and displays the multiplication table (up to 10x) of any number entered by the user.
 
+[Answer](https://codepen.io/bulletsentence/pen/qBoeyVX?editors=0012)
+
 ## 4. Vectors (array)
 
 ### Exercise 4.1
