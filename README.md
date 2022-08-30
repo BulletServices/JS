@@ -108,6 +108,7 @@ function limitPosition(position) {
   // function code
 }
 ```
+[Answer](https://codepen.io/bulletsentence/pen/xxWvRgx?editors=0012)
 
 ## 3. Loop
 
