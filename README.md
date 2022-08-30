@@ -75,12 +75,15 @@ The average of 'n' numbers is the sum of the 'n' numbers divided by 'n'
 
 Write a program that reads a temperature in Fahrenheit from the user, converts it to degrees Celsius and writes the new value to the screen. The formula for converting Fahrenheit (F) to Celsius is C = ( ( F - 32 ) * 5 ) / 9. Example: 100 Fahrenheit = 37.77 Celsius.
 
+[Answer](https://codepen.io/bulletsentence/pen/rNdXWBo?editors=0010)
+
 ## 2. Conditionals (_if_, _else_)
 
 ### Exercise 2.1
 
 Write a program that reads 2 numbers, adds them and displays a message with the result only **if** the result is greater than 100.
 
+[Answer](https://codepen.io/bulletsentence/pen/VwXomLv?editors=0010)
 
 ### Exercise 2.2
 
