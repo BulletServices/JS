@@ -233,3 +233,26 @@ HTML
 ```
 
 [Answer](https://codepen.io/bulletsentence/pen/dyebMNP?editors=1012)
+
+### Exercise 5.6
+Using the the HTML code below to import a JQUERY library, and use a request GET function to get a product title and it price;
+
+HTML
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+$.ajax({
+  type: "GET",
+  url: https://dummyjson.com/products,
+  contentType: "application/json",
+  success: function (result) {
+     console.log(result)
+  },
+  error: function (result, status) {
+    console.log("error");
+  }
+});
+
+```
+
+[Answer](#)
