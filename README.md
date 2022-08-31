@@ -29,6 +29,7 @@
       	* [Exercise 5.4](#Exercise-54)
       	* [Exercise 5.5](#Exercise-55)
       	* [Exercise 5.6](#Exercise-56)
+      	* [Exercise 5.7](#Exercise-57)
 
 # Before anything
 
@@ -248,6 +249,41 @@ $.ajax({
   contentType: "application/json",
   success: function (result) {
      console.log(result)
+  },
+  error: function (result, status) {
+    console.log("error");
+  }
+});
+
+```
+
+[Answer](#)
+
+
+### Exercise 5.7
+Using the the HTML code below to import a JQUERY library, and use a request GET function to get a list os products and at least 5 products to a card with a image and title;
+
+Tip: You can create elements using:
+
+```
+var newDiv = document.createElement("div");
+var newButton = document.createElement("Button");
+```
+And add a element to other using:
+```
+  newDiv.appendChild(newButton);
+```
+
+HTML
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+$.ajax({
+  type: "GET",
+  url: https://dummyjson.com/products,
+  contentType: "application/json",
+  success: function (result) {
+     // CREATE A CARD HERE USING: document.createElement("div");
   },
   error: function (result, status) {
     console.log("error");
