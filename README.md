@@ -27,6 +27,7 @@
       	* [Exercise 5.2](#Exercise-52)
       	* [Exercise 5.3](#Exercise-53)
       	* [Exercise 5.4](#Exercise-54)
+      	* [Exercise 5.5](#Exercise-55)
 
 # Before anything
 
@@ -214,6 +215,22 @@ CSS
 .red {
   color: red;
 }
+```
+
+[Answer](https://codepen.io/bulletsentence/pen/abYeazq)
+
+### Exercise 5.5
+Copy the HTML and CSS code below and use only JS to show on console all texts inside each H2
+
+Tip: You can use: element.classList.add();
+
+HTML
+```
+<h2> Apple </h2>
+<h2> Avocado </h2>
+<h2> Coconut </h2>
+<h2> Cranberries </h2>
+
 ```
 
 [Answer](https://codepen.io/bulletsentence/pen/abYeazq)
