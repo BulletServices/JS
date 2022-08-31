@@ -133,7 +133,7 @@ Write a function to print numbers from 1 to 5 using a loop
 SetTimeout is a async function that runs every time, eg:
 
 ```
-setTimeout(() => {
+setInterval(() => {
   console.log("Delayed for 1 second.");
 }, "1000")
 ```
