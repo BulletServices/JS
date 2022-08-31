@@ -28,6 +28,7 @@
       	* [Exercise 5.3](#Exercise-53)
       	* [Exercise 5.4](#Exercise-54)
       	* [Exercise 5.5](#Exercise-55)
+      	* [Exercise 5.6](#Exercise-56)
 
 # Before anything
 
