@@ -222,7 +222,7 @@ CSS
 ### Exercise 5.5
 Copy the HTML and CSS code below and use only JS to show on console all texts inside each H2
 
-Tip: You can use: element.classList.add();
+Tip: You can use: document.getElementsByTagName('h2'); to select all H2 elements then create a loop to get the "innerHTML" from all elements
 
 HTML
 ```
@@ -230,7 +230,6 @@ HTML
 <h2> Avocado </h2>
 <h2> Coconut </h2>
 <h2> Cranberries </h2>
-
 ```
 
 [Answer](https://codepen.io/bulletsentence/pen/abYeazq)
