@@ -30,6 +30,8 @@
       	* [Exercise 5.5](#Exercise-55)
       	* [Exercise 5.6](#Exercise-56)
       	* [Exercise 5.7](#Exercise-57)
+      	* [Exercise 5.8](#Exercise-58)
+
 
 # Before anything
 
@@ -293,3 +295,15 @@ $.ajax({
 ```
 
 [Answer](#)
+
+
+### Exercise 5.8
+Write a function that identifies if in a vector of words exists a value (Eg. Web) and returns a boolean true/false case or not.
+
+```
+function hasSkills(skills) {
+\\ write here
+}
+var skills = ["Web", "Javascript", "Flutter"];
+hasSkills(skills); // true ou false
+```
